@@ -11,7 +11,7 @@ if c == "/": #this code makes division calculations
 if c == "*": #this code makes  multiplication calculations
  print(a * b)
 else:
-  print("Invalid Operation") #this part is for making sure people use "+", "-", "/" or "*" if people use something else it will show this error
+  print("Invalid Operation") #this part is for making sure people use "+", "-", "/" or "*" if people use something else it will show this error. I don't know why but this part keeps appearing after using right things :/
 #this part is basic coding but if you are new to coding these codes does the calculations
 
 os.system("pause")
